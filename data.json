@@ -7,7 +7,13 @@
       "currentSubs": 103,
       "updatedAt": "2026-09-16",
       "weekBaselineSubs": 103,
-      "weekResetAt": "2026-09-16"
+      "weekResetAt": "2026-09-16",
+      "history": [
+        {
+          "date": "2026-09-16",
+          "subs": 103
+        }
+      ]
     }
   ],
   "accounts": [
@@ -20,7 +26,13 @@
       "baselineFollowers": 59,
       "currentFollowers": 59,
       "following": 2,
-      "posts": 264
+      "posts": 264,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 59
+        }
+      ]
     },
     {
       "id": "poloybon",
@@ -31,7 +43,13 @@
       "baselineFollowers": 80,
       "currentFollowers": 80,
       "following": 3,
-      "posts": 278
+      "posts": 278,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 80
+        }
+      ]
     },
     {
       "id": "ava0dvcv",
@@ -39,7 +57,8 @@
       "handle": "ava0dvcv",
       "flagged": true,
       "suspended": true,
-      "checkedAt": "2026-09-16T13:10:00Z"
+      "checkedAt": "2026-09-16T13:10:00Z",
+      "history": []
     }
   ],
   "baselineDate": "2026-09-16"
